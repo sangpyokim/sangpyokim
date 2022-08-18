@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
 </p>
 <p align="center" >
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/sangpyokim?ext=contest)
+  <img src='https://leetcard.jacoblin.cool/sangpyokim?ext=contest' />
 </p>
 
 
