@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/React-282C34?style=flat-square&logo=React&logoColor=#161b22"/></a> &nbsp
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
 </p>
+<p align="center" >
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/sangpyokim?ext=contest)
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sangpyokim?ext=contest)
 
 🔭 I’m currently working on ...
 
